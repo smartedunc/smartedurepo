@@ -10,3 +10,5 @@ s1.__name = 'Krishna'
 print(f'stundet name otuside class - {s1.__name}')
 s1.display()
 print('bug fix on hot fix by vinay')
+
+print("Enhancement2 Z9XX00A2")
